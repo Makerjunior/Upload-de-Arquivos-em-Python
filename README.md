@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="document/cover.png width="100%" alt="Upload-de-Arquivos-em-Python" />
+  <img src="./Upload/document/cover.png" width="100%" alt="Upload de Arquivos em Python" />
 </p>
-
 
 
 # Você pode fazer o upload de arquivos e o sistema faz a organização, montando uma galeria de imagens e organizando os arquivos de texto de acordo com sua extensão.
