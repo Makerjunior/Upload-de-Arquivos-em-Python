@@ -3,15 +3,7 @@
 </p>
 
 
-# Você pode fazer o upload de arquivos e o sistema faz a organização, montando uma galeria de imagens e organizando os arquivos de texto de acordo com sua extensão.
-
-
-
-Veja o exemplo abaixo em que foram enviados um arquivo com a extensão .txt, um arquivo PDF e 6 imagens.
-
-![Sistema](/Upload/document/cover.png)
-
-
+### **Você pode fazer o upload de arquivos e o sistema faz a organização, montando uma galeria de imagens e organizando os arquivos de texto de acordo com sua extensão.**
 
 
 
