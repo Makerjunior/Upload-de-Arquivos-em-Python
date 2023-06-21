@@ -1,3 +1,16 @@
+
+# Você pode fazer o upload de arquivos e o sistema faz a organização, montando uma galeria de imagens e organizando os arquivos de texto de acordo com sua extensão.
+
+
+
+Veja o exemplo abaixo em que foram enviados um arquivo com a extensão .txt, um arquivo PDF e 6 imagens.
+
+![Sistema](/Upload/document/imagem.png)
+
+
+
+
+
 Este é um script em Python que cria uma aplicação web Flask para upload de arquivos e exibição de uma lista de arquivos carregados pelo usuário. Quando o script é executado, inicia um servidor web local na porta 8080 que ouve solicitações recebidas.
 
 A aplicação web tem dois endpoints:
